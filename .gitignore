@@ -33,9 +33,12 @@
 *.lib
 
 # Executables
+iceberg
 *.exe
 *.out
 *.app
 
 # debug information files
 *.dwo
+
+.gitignore
